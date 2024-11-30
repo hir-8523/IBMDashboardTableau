@@ -12,4 +12,4 @@ This dashboard provides a breakdown of:
 
 This dashboard offers IBM leaders a bird's eye view of employee demographics, income distribution, and workforce characteristics. Insights like these can be valuable in workforce planning, ensuring diversity, and developing data-driven strategies for growth.
 
-hashtag#Tableau hashtag#DataVisualization hashtag#DataAnalytics hashtag#IBM hashtag#Dashboard hashtag#SalesInsights hashtag#HR hashtag#WorkforcePlanning hashtag#DiversityAndInclusion
+
